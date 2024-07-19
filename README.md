@@ -53,21 +53,12 @@ The results from the sample assignment indicated that ScribeSense can effectivel
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Student Signup Page
-![Student Signup Page](screenshots/signup.png)
+![image](https://github.com/user-attachments/assets/2f00f315-598a-426e-840e-eafa8426c499)
 
 ### Student Document Page
-![Student Document Page](screenshots/document_page.png)
+![image](https://github.com/user-attachments/assets/b761d38c-60eb-4e32-85e5-ac4277cad114)
 
 ### Summary Sheet
-![Summary Sheet](screenshots/summary.png)
-
-### Feedback Based on Marks
-![Feedback Based on Marks](screenshots/feedback.png)
-
-### Evaluating Assignment
-![Evaluating Assignment](screenshots/evaluating.png)
+![image](https://github.com/user-attachments/assets/d2fc88b0-d215-4564-a0cd-c6b19325571d)
 
 ---
